@@ -6,6 +6,7 @@ import sdk from "@farcaster/frame-sdk";
 export default function Demo(
 	{ title }: { title?: string } = { title: "Frames v2 Demo" },
 ) {
+	console.log(title);
 	const [isSDKLoaded, setIsSDKLoaded] = useState(false);
 	useEffect(() => {
 		const load = async () => {
