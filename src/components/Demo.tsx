@@ -21,7 +21,7 @@ export default function Demo(
 	return (
 		<div className="w-screen h-screen">
 			<iframe
-				src="https://dweb.mypinata.cloud/ipfs/QmaABN9WDNX9qhWDSrScwY92SDFeRmHwxuC5CPVCxXMm5s"
+				src="https://dweb.mypinata.cloud/ipfs/QmbcdMc3nWcdyu82kfvfSc4Nhu1bJJfmoiEBTVuPjxf5SY"
 				title="Frame content"
 				className="h-full w-full"
 			/>
